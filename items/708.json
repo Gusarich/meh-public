@@ -1,0 +1,13 @@
+{
+    "description": "MEH Pass NFT is your key to the vibrant $MEH community. Owners of this NFT enjoy exclusive access to private chats and are poised to benefit from upcoming special privileges. As a part of the collection, each piece stands as a symbol of connection and access within the $MEH ecosystem. Embrace your role in a dynamic community with this unique digital asset.",
+    "image": "https://github.com/Gusarich/meh-public/blob/main/image2.jpg?raw=true",
+    "content_type": "video/mp4",
+    "content_url": "https://github.com/Gusarich/meh-public/blob/main/2.mp4?raw=true",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Default"
+        }
+    ],
+    "name": "MEH Pass #709"
+}

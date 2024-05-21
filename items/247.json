@@ -1,0 +1,13 @@
+{
+    "description": "MEH Diamond Pass NFT is a special acknowledgment to the steadfast supporters of the $MEH community. Limited to just 258 NFTs, this exclusive variant is awarded to those who held over 1,000,000 $MEH in their wallets, as recognized in a dedicated blockchain snapshot. While offering the same utility as the MEH Default Pass, the Diamond version also serves as a gesture of gratitude, celebrating your significant contribution to the community's growth and success.",
+    "image": "https://github.com/Gusarich/meh-public/blob/main/image1.jpg?raw=true",
+    "content_type": "video/mp4",
+    "content_url": "https://github.com/Gusarich/meh-public/blob/main/1.mp4?raw=true",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Diamond"
+        }
+    ],
+    "name": "MEH Diamond Pass #248"
+}
